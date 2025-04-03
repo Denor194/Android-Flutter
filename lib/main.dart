@@ -11,10 +11,10 @@ class MonApp extends StatelessWidget {
       theme: ThemeData(primarySwatch: Colors.blue),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Denor Mike Fensly'),
+          title: const Text('Mon Profil'),
         ),
         body: const Center(
-          child: Text('ESIH'),
+          child: Text('Denor mike Fensly \n\n Ecole Superieure d\'infotronique D\'Haiti (ESIH)'),
         ),
       ),
     );

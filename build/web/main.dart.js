@@ -62,7 +62,7 @@ define('zapp_user_main', ['dart_sdk', 'flutter_sdk'], (function load__zapp_user_
         [Text_strutStyle]: null,
         [Text_style]: null,
         [Text_textSpan]: null,
-        [Text_data]: "Denor Mike Fensly"
+        [Text_data]: "Mon Profil"
       });
     },
     get C3() {
@@ -83,7 +83,7 @@ define('zapp_user_main', ['dart_sdk', 'flutter_sdk'], (function load__zapp_user_
         [Text_strutStyle]: null,
         [Text_style]: null,
         [Text_textSpan]: null,
-        [Text_data]: "ESIH"
+        [Text_data]: "Denor mike Fensly \n\n Ecole Superieure d'infotronique D'Haiti (ESIH)"
       });
     },
     get C4() {
